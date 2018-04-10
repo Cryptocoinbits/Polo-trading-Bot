@@ -1,0 +1,21 @@
+H:\Ongoing Projects 2017\Polo trading Bot\Polo trading Bot\bin\Debug\Polo trading Bot.exe.config
+H:\Ongoing Projects 2017\Polo trading Bot\Polo trading Bot\bin\Debug\Polo trading Bot.exe
+H:\Ongoing Projects 2017\Polo trading Bot\Polo trading Bot\bin\Debug\Polo trading Bot.pdb
+H:\Ongoing Projects 2017\Polo trading Bot\Polo trading Bot\obj\Debug\Polo trading Bot.csprojResolveAssemblyReference.cache
+H:\Ongoing Projects 2017\Polo trading Bot\Polo trading Bot\obj\Debug\Polo_trading_Bot.Form1.resources
+H:\Ongoing Projects 2017\Polo trading Bot\Polo trading Bot\obj\Debug\Polo_trading_Bot.Properties.Resources.resources
+H:\Ongoing Projects 2017\Polo trading Bot\Polo trading Bot\obj\Debug\Polo trading Bot.csproj.GenerateResource.Cache
+H:\Ongoing Projects 2017\Polo trading Bot\Polo trading Bot\obj\Debug\Polo trading Bot.exe
+H:\Ongoing Projects 2017\Polo trading Bot\Polo trading Bot\obj\Debug\Polo trading Bot.pdb
+H:\Ongoing Projects 2017\Polo trading Bot\Polo trading Bot\obj\Debug\Polo_trading_Bot.security.resources
+D:\I\Ongoing Projects 2017\Polo trading Bot\Polo trading Bot\bin\Debug\Polo Trading Bot.exe.config
+D:\I\Ongoing Projects 2017\Polo trading Bot\Polo trading Bot\bin\Debug\Polo Trading Bot.exe
+D:\I\Ongoing Projects 2017\Polo trading Bot\Polo trading Bot\bin\Debug\Polo Trading Bot.pdb
+D:\I\Ongoing Projects 2017\Polo trading Bot\Polo trading Bot\obj\Debug\Polo trading Bot.csprojResolveAssemblyReference.cache
+D:\I\Ongoing Projects 2017\Polo trading Bot\Polo trading Bot\obj\Debug\Polo_trading_Bot.Form1.resources
+D:\I\Ongoing Projects 2017\Polo trading Bot\Polo trading Bot\obj\Debug\Polo_trading_Bot.Properties.Resources.resources
+D:\I\Ongoing Projects 2017\Polo trading Bot\Polo trading Bot\obj\Debug\Polo_trading_Bot.security.resources
+D:\I\Ongoing Projects 2017\Polo trading Bot\Polo trading Bot\obj\Debug\Polo trading Bot.csproj.GenerateResource.Cache
+D:\I\Ongoing Projects 2017\Polo trading Bot\Polo trading Bot\obj\Debug\Polo trading Bot.csproj.CoreCompileInputs.cache
+D:\I\Ongoing Projects 2017\Polo trading Bot\Polo trading Bot\obj\Debug\Polo Trading Bot.exe
+D:\I\Ongoing Projects 2017\Polo trading Bot\Polo trading Bot\obj\Debug\Polo Trading Bot.pdb

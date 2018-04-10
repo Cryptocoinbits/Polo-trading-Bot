@@ -1,0 +1,72 @@
+8/6/2017 8:27:27 AM - BUY - Rate=0.00002048 - Amount=81.38020833 - Result=array(2) {
+  ["orderNumber"]=>
+  string(10) "6217390452"
+  ["resultingTrades"]=>
+  array(0) {
+  }
+}
+
+8/6/2017 8:27:28 AM - BUY - Rate=0.00001548 - Amount=107.66580534 - Result=array(2) {
+  ["orderNumber"]=>
+  string(10) "6217392450"
+  ["resultingTrades"]=>
+  array(0) {
+  }
+}
+
+8/6/2017 8:27:30 AM - BUY - Rate=0.00001048 - Amount=159.03307888 - Result=array(2) {
+  ["orderNumber"]=>
+  string(10) "6217393449"
+  ["resultingTrades"]=>
+  array(0) {
+  }
+}
+
+8/6/2017 8:29:26 AM - BUY - Rate=0.00002047 - Amount=81.41996418 - Result=array(1) {
+  ["error"]=>
+  string(15) "Not enough BTC."
+}
+
+8/6/2017 8:29:27 AM - BUY - Rate=0.00001547 - Amount=107.73540185 - Result=array(1) {
+  ["error"]=>
+  string(15) "Not enough BTC."
+}
+
+8/6/2017 8:29:28 AM - BUY - Rate=0.00001047 - Amount=159.18497294 - Result=array(1) {
+  ["error"]=>
+  string(15) "Not enough BTC."
+}
+
+8/6/2017 8:30:09 AM - SELL - Rate=0.0000210841 - Amount=81.41996418 - Result=array(2) {
+  ["orderNumber"]=>
+  string(10) "6217413429"
+  ["resultingTrades"]=>
+  array(0) {
+  }
+}
+
+8/6/2017 8:30:10 AM - SELL - Rate=0.0000107841 - Amount=159.18497294 - Result=array(1) {
+  ["error"]=>
+  string(16) "Not enough NOTE."
+}
+
+8/6/2017 8:30:29 AM - SELL - Rate=0.0000159341 - Amount=107.73540185 - Result=array(1) {
+  ["error"]=>
+  string(16) "Not enough NOTE."
+}
+
+8/6/2017 8:32:07 AM - Cancel buy order  - Result=array(1) {
+  ["error"]=>
+  string(30) "Invalid orderNumber parameter."
+}
+
+8/6/2017 8:32:08 AM - Cancel buy order  - Result=array(1) {
+  ["error"]=>
+  string(30) "Invalid orderNumber parameter."
+}
+
+8/6/2017 8:32:12 AM - Cancel buy order  - Result=array(1) {
+  ["error"]=>
+  string(30) "Invalid orderNumber parameter."
+}
+
